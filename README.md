@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi 👋
+
+Just a dev learning while working.
+
+### Currently using
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,golang,erlang,ruby,crystal&perline=5&titles=true&theme=light)
+
+### A long, long time ago
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,cpp&perline=5&titles=true&theme=light)
 
 <!--
 **reiswindy/reiswindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
